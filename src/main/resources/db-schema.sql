@@ -1,7 +1,7 @@
-create table sample
+CREATE TABLE SAMPLE
 (
-    id      bigint primary key,
-    name    varchar,
-    state   int,
-    created timestamp
+    ID      BIGINT PRIMARY KEY,
+    NAME    VARCHAR,
+    STATE   INTEGER,
+    CREATED TIMESTAMP
 );
